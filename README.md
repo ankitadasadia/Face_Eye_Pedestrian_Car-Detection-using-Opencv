@@ -1,1 +1,1 @@
-# Face/Eye/Pedestrian/Car-Detection-using-Opencv
+# Face/Eye/Pedestrian/Car Detection using Opencv
